@@ -1,0 +1,17 @@
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.sym
+*.bin
+*.lss
+*.map
+*.bak
+*.class
+*.exe
+post_imgs/*.png
+image.c
+converted_img.c
+clean_log.txt
+make_log.txt
