@@ -9,7 +9,6 @@
 *.map
 *.bak
 *.class
-*.exe
 post_imgs/*.png
 image.c
 converted_img.c
